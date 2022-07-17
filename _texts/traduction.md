@@ -6,7 +6,11 @@ author: Alex Gil et Kaiama L. Glover
 translators:
 ---
 
-This translation is based on [the clean copy established by Kora Véron](https://cahier1939ms.github.io/texts/simple/) of the 1939 typescript of the *Cahier*---the earliest known form of the poem. A draft of the translation was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." You can revisit [the original draft and the conversation that followed here](https://via.hypothes.is/https://cahier1939ms.github.io/texts/translation/). Below is the final version of our translation, enriched and revised based on that collective experience.
+Featuring: *Marlene Daut, Laurent Dubois, NJ Hamilton, Annette Joseph-Gabriel, Soraya Limare, Gregory Pierrot, David Satten-Lopez, Giuseppe Sofo, Chelsea Stieber, Irene Vazquez* and *Kora Véron-Leblé*
+
+This re-translation goes through several important drafts, making it an exercise in collective translation. The first draft by us, Kaiama and Alex, was based on [the clean copy established by Kora Véron](https://cahier1939ms.github.io/texts/simple/) of the 1939 typescript of the *Cahier*---the earliest known form of the poem. This early draft was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." The goal of this exercise was to invite fellow Caribbeanists from several disciplines to engage on a dialogue around the poem. You can revisit [the original draft and the conversation that ensued here](https://via.hypothes.is/https://cahier1939ms.github.io/texts/translation/). Below is the final draft of our translation, enriched and revised based on that collective experience.
+
+
 
 ---
 
