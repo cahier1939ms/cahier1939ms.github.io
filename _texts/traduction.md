@@ -14,7 +14,7 @@ This re-translation goes through several important drafts, making it an exercise
 
 ---
 
-## Notebook for a Return to My Birthplace
+## Notebook for a Return to The Land of My Birth
 
 by Aimé Césaire
 
@@ -26,7 +26,7 @@ by Aimé Césaire
 
 - {:.pr.i} the awful pointlessness of our reason for existing.
 
-- {:.pr.i} When the early morning ends, on this flimsiest pile of earth, exceeded by its grandiose future in humiliating ways---the volcanoes will erupt, the naked water will wash away the ripe spots of the sun and there will only remain a lukewarm bubbling pecked by seabirds---the beach of dreams and the insane awakening
+- {:.pr.i} When the early morning ends, on this flimsiest pile of earth, exceeded by its grandiose future in humiliating ways---the volcanoes will erupt, the naked water will wash away the ripe spots of the sun and there will only remain a lukewarm bubbling pecked by seabirds---the beach of dreams and the pointless awakening
 
 - {:.pr.i} When the early morning ends, this flat town---spread out, fumbled by its common sense, inert, breathless under the geometric burden of its eternally renewed cross, rebellious to its fate, mute, thwarted anyway, incapable of growing from the juice of this earth, embarrassed, cropped, reduced, broken with flora and fauna.
 
