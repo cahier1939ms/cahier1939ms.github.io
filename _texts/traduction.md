@@ -41,13 +41,13 @@ by Aimé Césaire
 - {:.pr.i} When the early morning ends, this inert town and its beyond of lepers, of consumption, of famines, of fears lurking in the ravines, of fears perched in the trees, of fears dug in the ground, of fears adrift in the sky, of fears piled up and its fumaroles of anguish.
 When the early morning ends, the forgotten hillock, forgetting to jump.
 
-- {:.pr.i} When the early morning ends, the dismal hillock with restless and docile hoof---its malarious blood drives away the sun with its overheated pulses.
+- {:.pr.i} When the early morning ends, the dismal morne with restless and docile hoof---its malarious blood drives away the sun with its overheated pulses.
 
-- {:.pr.i} When the early morning ends, the hillock's bottled up blaze, like a sob gagged on the verge of its bloodthirsty explosion, in search of an ignition that conceals and misrecognizes itself.
+- {:.pr.i} When the early morning ends, the morne's bottled up fire, like a sob gagged on the verge of its bloodthirsty explosion, in search of an ignition that shies away, unaware of itself.
 
-- {:.pr.i} When the early morning ends, the hillock crouching in front of the bulimia, on the lookout for lightning and mills, slowly vomiting up its human fatigue, the hillock alone and its blood spilled, the hillock and its bandages of shade, the hillock and its channels of fear, the hillock and its large hands of wind.
+- {:.pr.i} When the early morning ends, the morne crouching in front of the bulimia, on the lookout for lightning and mills, slowly vomiting up its human fatigue, the morne alone and its blood spilled, the morne and its bandages of shade, the morne and its channels of fear, the morne and its large hands of wind.
 
-- {:.pr.i} When the early morning ends, the starved hillock and no one knows better than this bastard hill why the suicide choked with the help of his hypoglossus, twisting its tongue to swallow it; why a woman seems to be floating on the Capot River (her luminously dark body obediently arranged around the navel's commands) but she is just a bundle of sonorous water.
+- {:.pr.i} When the early morning ends, the starved morne and no one knows better than this bastard hill why the suicide choked with the help of his hypoglossus, twisting its tongue to swallow it; why a woman seems to be floating on the Capot River (her luminously dark body obediently arranged around the navel's commands) but she is just a bundle of sonorous water.
 
 - {:.pr.i} And neither the teacher in his class, nor the catechism priest will be able to get one word out of this sleepy little boy, despite both of their energetic ways of drumming on his shaved little head, for it is in the swamps of hunger that his starved voice lies bogged down (one-word-one-word and we-can-move-on-from-Queen-Blanche-of-Castile, one-word-a-single-word, do you-see-this-little-savage-who-does-not-know-a-single-one-of-God’s-Ten-Commandments),
 - {:.pr.i} because his voice is lost in the swamps of hunger,
