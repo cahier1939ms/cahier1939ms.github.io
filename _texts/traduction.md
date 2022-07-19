@@ -6,7 +6,7 @@ author: Alex Gil et Kaiama L. Glover
 translators:
 ---
 
-Featuring: *Marlene Daut, Laurent Dubois, NJ Hamilton, Annette Joseph-Gabriel, Soraya Limare, Gregory Pierrot, David Satten-Lopez, Giuseppe Sofo, Chelsea Stieber, Irene Vazquez* and *Kora Véron-Leblé*
+Featuring: *Marlene Daut, Laurent Dubois, NJ Hamilton, Annette Joseph-Gabriel, Soraya Limare, Gregory Pierrot, Laëtitia Saint-Loubert, David Satten-Lopez, Giuseppe Sofo, Chelsea Stieber, Irene Vazquez* and *Kora Véron-Leblé*
 
 This re-translation goes through several important drafts, making it an exercise in collective translation. The first draft by us, Kaiama and Alex, was based on [the clean copy established by Kora Véron](https://cahier1939ms.github.io/texts/simple/) of the 1939 typescript of the *Cahier*---the earliest known form of the poem. This early draft was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." The goal of this exercise was to invite fellow Caribbeanists from several disciplines to engage on a dialogue around the poem. You can revisit [the original draft and the conversation that ensued here](https://via.hypothes.is/https://cahier1939ms.github.io/texts/translation/). Below is the final draft of our translation, enriched and revised based on that collective experience.
 
@@ -32,7 +32,7 @@ by Aimé Césaire
 
 - {:.pr.i} When the early morning ends, this flat town---spread out...
 
-- {:.pr.i} And in this inert town, this howling crowd so astonishingly exceeded by its cry like this town beside its movement, its sense, without anxiety, beside its true cry, the only one that one would have liked to hear because you know it's the only one that's truly theirs; because you feel it living within them in some deep refuge of shadow and pride, in this inert town, this crowd beside its cry of hunger, misery, revolt, hatred, this crowd so strangely talkative and yet mute.
+- {:.pr.i} And in this inert town, this howling crowd stunningly missing the point of howling, like this town beside its movement, its sense, without anxiety, beside its true howl, the only one that one would have liked to hear because you know it's the only one that's truly theirs; because you feel it living within them in some deep refuge of shadow and pride, in this inert town, this crowd beside its cry of hunger, misery, revolt, hatred, this crowd so strangely talkative and yet mute.
 
 - {:.pr.i} In this inert town, this strange crowd that does not crowd together, that does not mix: skillful in discovering the point of disconnection, of flight, of evasion. This crowd that does not know how to crowd, this crowd, we realize, so perfectly alone under this sun, like a woman, who one would believe was solely focused on the lyrical cadence of her rear end, suddenly calling out a hypothetical rain and commanding it to stop; or a quick sign of the cross without a visible motive; or the suddenly serious animality of a peasant woman, peeing standing up, legs spread apart, stiff.
 - {:.pr.i} In this inert town, this desolate crowd under the sun, not participating in anything that is expressed, asserted, or openly exposed about their own land. Not in the Empress Josephine of the French dreaming high up above the Negro. Nor in the Liberator frozen in his liberation of bleached stone. Nor in the conqueror. Nor in this contempt, nor this freedom, nor this audacity.
