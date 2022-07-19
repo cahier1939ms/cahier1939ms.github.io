@@ -41,7 +41,7 @@ by Aimé Césaire
 - {:.pr.i} When the early morning ends, this inert town and its beyond of lepers, of consumption, of famines, of fears lurking in the ravines, of fears perched in the trees, of fears dug in the ground, of fears adrift in the sky, of fears piled up and its fumaroles of anguish.
 When the early morning ends, the forgotten hillock, forgetting to jump.
 
-- {:.pr.i} When the early morning ends, the dismal morne with restless and docile hoof---its malarious blood drives away the sun with its overheated pulses.
+- {:.pr.i} When the early morning ends, the dismal morne with restless and docile hoof---its malarial blood drives away the sun with its overheated pulses.
 
 - {:.pr.i} When the early morning ends, the morne's bottled up fire, like a sob gagged on the verge of its bloodthirsty explosion, in search of an ignition that shies away, unaware of itself.
 
