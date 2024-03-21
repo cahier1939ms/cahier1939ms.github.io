@@ -2,11 +2,11 @@
 layout: poem
 title: "a translation"
 description: "A translation..."
-author: Alex Gil et Kaiama L. Glover
+author: Alex Gil et Kaiama L. Glover (et al)
 translators:
 ---
 
-This translation is based on [the clean copy established by Kora Véron](https://cahier1939ms.github.io/texts/simple/) of the 1939 typescript of the _Cahier_---the earliest known version form of the poem. The translation was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." In this exercise we invited our colleagues to join us in annotation our draft translation and help us produce a "collective" translation. Annotations and ensuing discussions used the [hypothes.is](https://web.hypothes.is/) web annotation tool. As of 2024, annotations can only be viewed using the Chrome browser. To install the Hypothes.is extension, please visit [this page](https://web.hypothes.is/start/). Once installed, you can view the annotations by clicking on the Hypothes.is icon in the upper right corner of your browser. You may need to first click on the extension button (looks like the piece of a puzzle) to see the Hypothes.is icon. You may also want to pin it to the browser bar for easy reference.
+“Our Collective Notebook” is based on the clean copy of Kora Véron’s typescript of the 1939 version of _Cahier_---the earliest known witness of Césaire’s poem. This translation was prepared in honor of the Caribbean Digital VII conference in 2020, as part of one of three group exercises. In this exercise we invited our colleagues to join us in refining our draft translation and producing a "collective" translation using the [hypothes.is](https://web.hypothes.is/) web annotation tool. As of 2024, annotations can only be viewed using the Chrome browser. To install the Hypothes.is extension, visit [this page](https://web.hypothes.is/start/). Once installed, click on the Hypothes.is icon in the upper right corner of your browser to view the annotations. You may need to click first on the extension button (looks like a puzzle piece) to see the Hypothes.is icon, after which you can pin the icon to the browser bar for easy reference.
 
 ---
 
