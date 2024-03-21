@@ -1,7 +1,7 @@
 ---
 layout: poem
-title: "a translation"
-description: "A translation..."
+title: "Our Collective Notebook: A Translation"
+description: "A translation into English of the 1939 typescript of the Cahier"
 author: Alex Gil et Kaiama L. Glover (et al)
 translators:
 ---
