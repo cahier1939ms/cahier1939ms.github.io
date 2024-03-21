@@ -6,7 +6,7 @@ author: Alex Gil et Kaiama L. Glover
 translators:
 ---
 
-This translation is based on [the clean copy established by Kora Véron](https://cahier1939ms.github.io/texts/simple/) of the 1939 typescript of the *Cahier*---the earliest known form of the poem. The translation was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." If it's not already enabled, you can enable the annotation layer for our collective activity by clicking on this [hypothes.is link](https://via.hypothes.is/https://cahier1939ms.github.io/texts/translation/).
+This translation is based on [the clean copy established by Kora Véron](https://cahier1939ms.github.io/texts/simple/) of the 1939 typescript of the _Cahier_---the earliest known version form of the poem. The translation was prepared in honor of the Caribbean Digital VII conference, as part of one of three collective exercises: "[Our Collective Notebook](https://www.caribbeandigitalnyc.net/2020/cahier/)." In this exercise we invited our colleagues to join us in annotation our draft translation and help us produce a "collective" translation. Annotations and ensuing discussions used the [hypothes.is](https://web.hypothes.is/) web annotation tool. As of 2024, annotations can only be viewed using the Chrome browser. To install the Hypothes.is extension, please visit [this page](https://web.hypothes.is/start/). Once installed, you can view the annotations by clicking on the Hypothes.is icon in the upper right corner of your browser. You may need to first click on the extension button (looks like the piece of a puzzle) to see the Hypothes.is icon. You may also want to pin it to the browser bar for easy reference.
 
 ---
 
@@ -34,7 +34,7 @@ by Aimé Césaire
 - {:.pr.i} In this inert town, this desolate crowd under the sun, not participating in anything that is expressed, asserted, or openly exposed about their own land. Not in the Empress Josephine of the French dreaming high up above the Negro. Nor in the Liberator frozen in his liberation of bleached stone. Nor in the conqueror. Nor in this contempt, nor this freedom, nor this audacity.
 
 - {:.pr.i} When the early morning ends, this inert town and its beyond of lepers, of consumption, of famines, of fears lurking in the ravines, of fears perched in the trees, of fears dug in the ground, of fears adrift in the sky, of fears piled up and its fumaroles of anguish.
-When the early morning ends, the forgotten hillock, forgetting to jump.
+  When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr.i} When the early morning ends, the dismal hillock with restless and docile hoof---its malarious blood drives away the sun with its overheated pulses.
 
@@ -51,7 +51,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr.i} a hunger deep and anemic,
 - {:.pr.i} a hunger buried in the depths of the Hunger of this starving hillock.
 
-- {:.pr.i} When the early morning ends, the motley shipwreck, the exacerbated stench of corruption, the monstrous sodomies of the victim and the flogger, the insurmountable bow of prejudice and foolishness, prostitution, hypocrisy, lewdness, betrayals, lies, falsehoods, concussions---the breathlessness of insufficient acts of cowardice, effortless enthusiasm for supernumerary sprouts, greed, hysteria, perversions, harlequinades of misery, cripples, pruritus, urticaria, the lukewarm hammocks of degeneration. 
+- {:.pr.i} When the early morning ends, the motley shipwreck, the exacerbated stench of corruption, the monstrous sodomies of the victim and the flogger, the insurmountable bow of prejudice and foolishness, prostitution, hypocrisy, lewdness, betrayals, lies, falsehoods, concussions---the breathlessness of insufficient acts of cowardice, effortless enthusiasm for supernumerary sprouts, greed, hysteria, perversions, harlequinades of misery, cripples, pruritus, urticaria, the lukewarm hammocks of degeneration.
 - {:.pr} Here's the parade of laughable and scrofulous buboes, the culture of freaky microbes, the poisons without known remedies, the pus of ancient wounds, the unpredictable fermentations of putrescible species.
 
 - {:.pr.i} When the early morning ends, the great still night, the stars, more dead than a broken balafong,
@@ -60,10 +60,10 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr.i} And our foolish and mad gestures to revive the splash of gold of favored moments, the umbilical cord restored to its fragile splendor, the bread, and the wine of complicity, the bread, the wine, the blood of true weddings.
 
-- {:.pr.i} And this ancient joy bringing me knowledge of my present misery, 
+- {:.pr.i} And this ancient joy bringing me knowledge of my present misery,
 - {:.pr} a bumpy road that takes a dip in a hollow where it scatters a few shacks; an indefatigable road which charges at full speed a hillock, on top of which a madly ascending road is brutally stuck in a pool of clumsy houses, recklessly descending, and the carcass of wood comically perched on tiny cement legs that I call "our house", its tin hairstyle waving in the sun like dry skin, the dining room, the coarse floor where nailheads glisten, the beams of pine and shadows that run up to the ceiling, the chairs of ghostly straw, the gray light of the lamp, fast and glazed with cockroaches which buzz so much they hurt…
 
-- {:.pr.i} When the early morning ends, this most essential country restored for me to gorge on, not with diffuse tenderness, but with the tormented, sensual concentration of the hillocks' fat nipple and the accidental palm tree as their hardened seed, the torrents' saccadic orgams, from Trinité to Grand-Rivière, the hysterical grand-lick of the sea. 
+- {:.pr.i} When the early morning ends, this most essential country restored for me to gorge on, not with diffuse tenderness, but with the tormented, sensual concentration of the hillocks' fat nipple and the accidental palm tree as their hardened seed, the torrents' saccadic orgams, from Trinité to Grand-Rivière, the hysterical grand-lick of the sea.
 
 - {:.pr.i} And time was passing quickly, very quickly.
 - {:.pr.i} Gone by August when the mango trees flaunt all their lunula, September the midwife of hurricanes, October the torcher of sugarcane, November purring in the distilleries, and Christmas was beginning.
@@ -97,9 +97,9 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr.i} When the early morning ends, the wind of bygone days rises up, of betrayed loyalties, of uncertain duty that slips away and that other early morning, Europe …
 
-- {:.pr.i} To leave. My heart swelled with emphatic bounties. 
+- {:.pr.i} To leave. My heart swelled with emphatic bounties.
 - {:.pr} To leave ... I would arrive smooth and young in this land of mine, and I would say to this land whose silt is part of the composition of my flesh: "I have wandered for a long time, and I return to the deserted hideousness of your wounds."
-- {:.pr.i} I would come to this land of mine and tell it. 
+- {:.pr.i} I would come to this land of mine and tell it.
 - {:.pr} "Kiss me without fear… And if speaking is all I know how to do, I will speak for you. "
 - {:.pr.i} And I would tell it again:
 - {:.pr} "My mouth will be the mouth of misfortunes that have no mouth, my voice, the freedom of those who collapse in the dungeon of despair. "
@@ -124,10 +124,8 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} here I am divided from the cool oases of brotherhood
 - {:.pr} this modest nothing frieze of hard splinters
 - {:.pr} this all-too-sure horizon trembles like a jailer.
-	
 - {:.pr.i} Your last triumph, stubborn crow of Betrayal.
 - {:.pr.i} What is mine, those few thousand mortals circling in the calabash of an island, and what is also mine, the archipelago, arched like the uneasy desire to deny itself, it looks like a maternal anxiety to protect the more delicate tenuity separating one America from the other; and its flanks that secrete for Europe the good liquor of a Gulf Stream, and one of the two incandescent slopes between which the equator tightrope walks towards Africa. And my non-enclosed island, its bright audacity, upright behind this Polynesia, in front of it, Guadeloupe split in two with its dorsal stripe and our same misery, Haiti where negritude stood up for the first time and said that she believed in her humanity and the comical little tail of Florida where the strangulation of a Negro is complete, and Africa, gigantically crawling to the Hispanic foot of Europe, her nudity where Death carves out wide furrows.
-	
 - {:.pr.i} And I say to myself Bordeaux and Nantes and Liverpool and New York and San Francisco
 - {:.pr} not a corner of this world that does not have my fingerprint and my calcaneus on the back of skyscrapers and my filth in the sparkling of gems!
 - {:.pr} Who can claim to have better than me?
@@ -203,7 +201,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr.i} Sun, Sun Angel, Curly Sun Angel.
 - {:.pr.i} For a leap beyond the green and soft swim of the waters of abjection!
-- {:.pr.i} But I went to the wrong witch doctor. On this exorcised land, adrift of its precious evil intention, that screaming voice, slowly hoarsening, vainly, vainly hoarsening, and there are  only the droppings accumulated from our lies that do not respond!
+- {:.pr.i} But I went to the wrong witch doctor. On this exorcised land, adrift of its precious evil intention, that screaming voice, slowly hoarsening, vainly, vainly hoarsening, and there are only the droppings accumulated from our lies that do not respond!
 
 - {:.pr} What madness the marvelous entrechat I dreamed of above the baseness!
 - {:.pr} Oh my, the whites are great warriors
@@ -235,10 +233,10 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} So be it. So be it. It was written in the shape of their pelvis.
 
 - {:.pr} And me and me,
-- {:.pr} me who sang fist hardened 
+- {:.pr} me who sang fist hardened
 - {:.pr} You have to know how far my cowardice went.
 - {:.pr} One evening in a streetcar, facing me, a Negro.
-- {:.pr.i} He was a Negro big as a gorilla trying to make himself tiny on a streetcar bench. He tried to leave behind his gigantic legs and his starving boxer’s shaky hands on that filthy streetcar bench. 
+- {:.pr.i} He was a Negro big as a gorilla trying to make himself tiny on a streetcar bench. He tried to leave behind his gigantic legs and his starving boxer’s shaky hands on that filthy streetcar bench.
 - {:.pr} And everything had left him, was leaving him. His nose, which looked like a shaved down peninsula, and his Negritude itself, discolored by the action of a tireless tanning. And the tanner was Poverty. A sudden large-eared bat whose claw marks had scarred scabious islands on his face. Or rather, he was a tireless worker, Poverty working on some hideous cartridge. We could see very well how the industrious and malicious thumb had modeled the humped forehead, pierced the nose with two parallel and disturbing tunnels, lengthened the excessiveness of the lower lip, and in a stroke of caricatural genius, planed, polished and varnished the tiniest, cutest little ear in all of creation.
 - {:.pr.i} He was a gangling Negro without rhyme or reason.
 - {:.pr.i} A Negro with a voice foggy with alcohol and misery.
@@ -268,7 +266,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} My star now, the funeral malfini.
 
 - {:.pr} And on this old dream my cannibalistic cruelties
-- {:.pr} The balls are thick saliva in the mouth 
+- {:.pr} The balls are thick saliva in the mouth
 - {:.pr} Our heart of daily baseness explodes
 - {:.pr} continents break the frail attachment of isthmuses
 - {:.pr} land masses leap following the fatal division of rivers
@@ -284,7 +282,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} His sacred maxims trampled underfoot, his pedantic declamations blowing wind through each wound.
 - {:.pr} Here is the man on the floor.
 - {:.pr} and his soul is nearly bared
-- {:.pr} and fate triumphs, contemplating this soul which once defied it transform in the ancestral quagmire 
+- {:.pr} and fate triumphs, contemplating this soul which once defied it transform in the ancestral quagmire
 
 - {:.pr} I say it is all well and good.
 - {:.pr} My back will successfully exploit the unwinding of fibers.
@@ -305,7 +303,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} those who have not explored neither the seas nor the sky
 - {:.pr} but they know every nook and cranny of the land of suffering
 - {:.pr} those whose only travels have been uprootings
-- {:.pr} those who have gotten used to kneeling 
+- {:.pr} those who have gotten used to kneeling
 - {:.pr} those who were domesticated and Christianized
 - {:.pr} those who were inoculated with bastardization
 - {:.pr} empty-handed djembe
@@ -361,20 +359,20 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} those whose survival walks in the germination of grass!
 
 - {:.pr} Hurray perfect circle of the world and close concordance!
-- {:.pr} 	
+- {:.pr}
 - {:.pr} Hear the white world
 - {:.pr} horribly weary of its immense effort
 
 - {:.pr} its rebellious joints creak under the impassive stars
 - {:.pr} its stiffness of blue steel piercing the mystical flesh
 - {:.pr} listen to its stupendous victories trumpet its defeats
-- {:.pr} listen to its grandiose alibis its mediocre stumbling 
+- {:.pr} listen to its grandiose alibis its mediocre stumbling
 
-- {:.pr} Pity for our omniscient and naive conquerors! 
+- {:.pr} Pity for our omniscient and naive conquerors!
 
 - {:.pr} Hurray for those who have never invented anything
 - {:.pr} for those who have never explored anything
-- {:.pr} for those who have never mastered anything 
+- {:.pr} for those who have never mastered anything
 
 - {:.pr} Hurray for joy
 - {:.pr} Hurray for love
@@ -407,7 +405,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} now is the time to gird up these loins like a valiant man.
 
 - {:.pr} But doing so, my heart, keep me from all hate
-- {:.pr} do not make of me that man of hatred for whom I have nothing but hate 
+- {:.pr} do not make of me that man of hatred for whom I have nothing but hate
 - {:.pr} because to limit myself to this unique race
 - {:.pr} and you know my catholic love
 - {:.pr} and you know it is not at all out of hatred for other races
@@ -423,7 +421,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr} And see the tree of our hands!
 - {:.pr} it rotates for all, the wounds incised in its trunk
-- {:.pr} the soil works for all 
+- {:.pr} the soil works for all
 - {:.pr} and intoxication towards the branches of fragrant precipitation!
 
 - {:.pr} But before approaching future orchards
@@ -448,7 +446,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr} At the end of this early morning, my virile prayer:
 - {:.pr} give me the muscles of this canoe on the raging sea
-- {:.pr} and the eloquent joy of the good news conch! 
+- {:.pr} and the eloquent joy of the good news conch!
 
 - {:.pr} Here, I am just a man (that no degradation, nor spitting can shake)
 - {:.pr} I'm no more than a man who accepts no longer being angry
@@ -469,9 +467,9 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} and the twenty-nine legal lashes
 - {:.pr} and the four foot high dungeon
 - {:.pr} and the branched shackles
-- {:.pr} and the sliced hamstring of my maroon audacity 
+- {:.pr} and the sliced hamstring of my maroon audacity
 - {:.pr} and the fleur-de-lys flowing from the red-hot iron onto the fat of my shoulder
-- {:.pr} and the doghouse of Mr. VAULTIER MAYENCOURT, where for six months I barked for like a poodle 
+- {:.pr} and the doghouse of Mr. VAULTIER MAYENCOURT, where for six months I barked for like a poodle
 - {:.pr} and Monsieur BRAFIN
 - {:.pr} and Monsieur de FOURNIOL
 - {:.pr} and Monsieur de la MAHAUDIÈRE
@@ -491,7 +489,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr} and the Negro every day lower, more cowardly, more sterile, less deep, more dispersed outward, more separated from itself, more cunning with itself, less immediate with itself
 
-- {:.pr} I accept, I accept all of this 
+- {:.pr} I accept, I accept all of this
 
 - {:.pr} and far from the sea of ​​palaces that surges under the suppurating syzygy of he blisters, the body of my country lies marvelously in the despair of my arms, its bones shaken and in its veins, blood hesitates like the drop of vegetal milk in the wounded tip of the bulb ... And here suddenly strength and life assail me like a bull and I renew ONAN who entrusted his sperm to the fertile earth and the wave of life circumvents the papilla of the hillock, and here are all the veins and veinlets busy with new blood and the huge lung of cyclones breathing and the hoarded fire of volcanoes and the gigantic seismic pulse that now beats the measure of a living body in my firm embrace.
 
@@ -500,7 +498,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} because it is not true that the work of man is finished
 - {:.pr} that we have nothing to do in the world
 - {:.pr} that we parasitize the world
-- {:.pr} that we just need to keep up the pace with the world 
+- {:.pr} that we just need to keep up the pace with the world
 
 - {:.pr} but the work of man has only just begun
 
@@ -509,7 +507,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} and there is room for all at the rendezvous of conquest and we now know that the sun revolves around our earth, illuminating the plot that our will alone has fixed, and that every star falls from heaven to earth at our limitless command.
 
 - {:.pr} I now have the meaning of the ordeal: my country is the "night spear" of my Bambara ancestors.
-- {:.pr} It shrivels and its tip flees desperately towards the handle if it is sprayed with chicken’s blood, and it says that the blood of man is needed for its temperament, fat, liver, human heart, not chicken blood. 
+- {:.pr} It shrivels and its tip flees desperately towards the handle if it is sprayed with chicken’s blood, and it says that the blood of man is needed for its temperament, fat, liver, human heart, not chicken blood.
 - {:.pr} And I look for my country, not for date seeds, but for the hearts of men who are to enter the silver cities by the big trapezoidal door, that they beat virile blood, and my eyes sweep my square kilometers of paternal land, and I count the wounds with a sort of joy, and I pile them one on top of the other like rare species, and my count is always growing with unforeseen coins of baseness.
 - {:.pr} And here are those who do not console themselves for not being made in the likeness of God but of the devil, those who consider that one is Negro like a second-class clerk: while waiting for better, and with the possibility of climbing higher; those wildly being just ahead of of themselves, those who live within the dungeon of themselves; those who drape themselves in proud pseudomorphosis; those who say to Europe: "See, I know how to bow to you, how to pay you respect, in short, I am no different from you; pay my dark skin no mind: it was the sun that burned me."
 
@@ -520,7 +518,7 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} The whites say he was a good Negro, a real good Negro, the good Negro to his good master.
 - {:.pr} I say hurray!
 - {:.pr} He was a very good Negro
-- {:.pr} misery had hurt his chest and back and  his poor brain had been stuffed with the notion that some fatality weighed on him that could not be seized by the collar; that he had no power over his own destiny; that a wicked Lord had for all eternity written laws of interdiction in his pelvic nature; and to be the good Negro; to be genuinely content to be the good Negro; to believe genuinely in his unworthiness, without the perverse curiosity to ever verify the fateful hieroglyphics.
+- {:.pr} misery had hurt his chest and back and his poor brain had been stuffed with the notion that some fatality weighed on him that could not be seized by the collar; that he had no power over his own destiny; that a wicked Lord had for all eternity written laws of interdiction in his pelvic nature; and to be the good Negro; to be genuinely content to be the good Negro; to believe genuinely in his unworthiness, without the perverse curiosity to ever verify the fateful hieroglyphics.
 - {:.pr} He was a very good Negro
 - {:.pr} and it did not occur to him that he could hoe, dig, cut everything, anything really, other than the tasteless cane
 
@@ -539,32 +537,31 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 
 - {:.pr} Smelling of fried onions the black masses discover the bitter taste of freedom in their spilled blood
 
-- {:.pr}  And they are standing the black masses
-- {:.pr}  the seated black masses
-- {:.pr}  unexpectedly standing
-- {:.pr}  standing in the hold
-- {:.pr}  standing in the cabins
-- {:.pr}  standing on the bridge
-- {:.pr}  standing in the wind
-- {:.pr}  standing under the sun
-- {:.pr}  standing in blood
+- {:.pr} And they are standing the black masses
+- {:.pr} the seated black masses
+- {:.pr} unexpectedly standing
+- {:.pr} standing in the hold
+- {:.pr} standing in the cabins
+- {:.pr} standing on the bridge
+- {:.pr} standing in the wind
+- {:.pr} standing under the sun
+- {:.pr} standing in blood
 - {:.pr.i6} standing
-- {:.pr.i9} and 
+- {:.pr.i9} and
 - {:.pr.i10} free
 - {:.pr} standing and not at all the poor fools in their maritime freedom and destitution spinning in perfect drift
 - {:.pr} and here it is:
 - {:.pr} evermore unexpectedly standing
-- {:.pr}  standing at the ropes
-- {:.pr}  standing at the bar
-- {:.pr}  standing at the compass
-- {:.pr}  standing at the map
+- {:.pr} standing at the ropes
+- {:.pr} standing at the bar
+- {:.pr} standing at the compass
+- {:.pr} standing at the map
 - {:.pr} standing under the stars
 - {:.pr.i6} standing
-- {:.pr.i9} and 
+- {:.pr.i9} and
 - {:.pr.i10} free
 
 - {:.pr} and the lustral ship treads impassive on the exhausted waters.
- 	
 - {:.pr} And now fall
 - {:.pr} and now rot our plop of ignominy
 
@@ -573,14 +570,14 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} the shackle-breaking dance
 - {:.pr} the jail-break dance
 - {:.pr} the it-is-beautiful-and-good-and-legitimate-to be-Negro dance
-- {:.pr} Mine are my dances and the sun leaps on the racket of my hands 
+- {:.pr} Mine are my dances and the sun leaps on the racket of my hands
 - {:.pr} But no, the uneven sun is no longer enough for me
 - {:.pr} wrap yourself, wind, around my new growth
 - {:.pr} lay on my measured fingers
 - {:.pr} I give you my conscience and its rhythm of flesh
 - {:.pr} I deliver to you the fires where my weakness blazes
-- {:.pr} I deliver to you the chain-gang 
-- {:.pr} I deliver to you the swamp 
+- {:.pr} I deliver to you the chain-gang
+- {:.pr} I deliver to you the swamp
 - {:.pr} I deliver to you the in-tourist of the triangular circuit
 - {:.pr} Devour wind
 - {:.pr} I deliver to you my abrupt words
@@ -602,13 +599,12 @@ When the early morning ends, the forgotten hillock, forgetting to jump.
 - {:.pr} bind my black vibration to the very navel of the world
 - {:.pr} Bind, bind me, bitter brotherhood
 - {:.pr} Then strangling me with your lasso of stars
-- {:.pr.i6}	rise, Dove
-- {:.pr.i6}	rise
-- {:.pr.i6}	rise
-- {:.pr.i6}	rise
+- {:.pr.i6} rise, Dove
+- {:.pr.i6} rise
+- {:.pr.i6} rise
+- {:.pr.i6} rise
 - {:.pr} I follow you, imprinted in my ancestral white cornea
 - {:.pr} Rise, sky licker
 - {:.pr} And that big black hole where I wanted to drown a moon ago
-- {:.pr} Is where I now want to fish 
+- {:.pr} Is where I now want to fish
 - {:.pr} the evil tongue of the night in its motionless verrition!
-
