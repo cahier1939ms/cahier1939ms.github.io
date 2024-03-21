@@ -1,6 +1,6 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" />
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -13,17 +13,17 @@
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/texts/presentation/">Présentation</a>
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/search/">Barre de recherche</a>
     <!-- The code below is used for manually entered links  -->
-    <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
+    <!-- <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');
       hypothesis.setAttribute('src','https://hypothes.is/embed.js');
-      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annoter</a></span>
+      document.head.appendChild(hypothesis);"><a class="sidebar-nav-item">Annoter</a></span> -->
 
-<!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{page.url}}/" data-proofer-ignore>Annotate me</a> -->
-<!--  -->
+    <!--     <a class="sidebar-nav-item" href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{page.url}}/" data-proofer-ignore>Annotate me</a> -->
+    <!--  -->
     <!-- <script src="https://hypothes.is/embed.js" async></script> -->
 
     <a class="sidebar-nav-item" href="https://github.com/elotroalex/cahier-anf/" target="_blank">Référentiel github</a>
   </nav>
-    <div class="sidebar-item">
+  <div class="sidebar-item">
     <p>Ce travail est concédé sous une <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International License </a>. Images reproduites avec l'autorisation de l'Assemblée nationale de France.</p>
   </div>
 </div>
